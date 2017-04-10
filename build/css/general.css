@@ -1,0 +1,39 @@
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+}
+body {
+  background-color: #ff2cee;
+}
+.box {
+  margin: 10px 5px;
+}
+.header {
+  background-color: pink;
+}
+.header-wrap {
+  width: 1000px;
+  margin: 0 auto;
+}
+.header-title {
+  border-bottom: 2px solid red;
+}
+.header-title h1 {
+  font-size: 2rem;
+}
+.header-box {
+  display: inline-block;
+  vertical-align: top;
+}
+.header .nav {
+  margin-bottom: 20px;
+}
+.header .nav li {
+  display: inline-block;
+  vertical-align: top;
+}
+.header .nav li a {
+  display: block;
+  height: 100%;
+  text-decoration: none;
+}
